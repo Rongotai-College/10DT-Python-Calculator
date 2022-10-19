@@ -22,9 +22,9 @@ Author - Edward Martin Petersen: Design and Develop a Digital Outcome
 * Layout
   * This is the layout of the **calculator**
 
-<a href="task"><image src="https://github.com/Rongotai-College/10DT/blob/main/Mixed-CSS-Grid/images/Home_Page_ss.jpg?raw=true" title="The Task" width=950>
+<a href="task"><image src="https://github.com/Rongotai-College/10DT-Python-Calculator/blob/main/images/calc_ss.jpg?raw=true" title="The Task" width=950>
 
-![GitHub](/Mixed-CSS-Grid/images/r1.jpg)
+
 
 
 
