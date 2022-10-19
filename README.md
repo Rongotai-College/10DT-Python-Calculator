@@ -16,11 +16,11 @@ Author - Edward Martin Petersen: Design and Develop a Digital Outcome
 
 ### The Design
 * Colour
-  * The colours I have chosen for the Home Page is taken from the hero image on that page.
-  * The **website** that I used for this is: [**colorexplorer.com**](http://www.colorexplorer.com/imageimport.aspx)
+  * The colours I have chosen for the calculator is taken from my design for the age group.
+  * The **website** that I used for this is: [**imagecolorpicker.com**](https://www.w3schools.com/colors/colors_picker.asp)
     
 * Layout
-  * This is the layout of the **Home Page**
+  * This is the layout of the **calculator**
 
 <a href="task"><image src="https://github.com/Rongotai-College/10DT/blob/main/Mixed-CSS-Grid/images/Home_Page_ss.jpg?raw=true" title="The Task" width=950>
 
