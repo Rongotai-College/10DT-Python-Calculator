@@ -20,7 +20,8 @@ Author - Edward Martin Petersen: Design and Develop a Digital Outcome
   * The **website** that I used for this is: [**w3schools.com**](https://www.w3schools.com/colors/colors_picker.asp)
     
 * Layout
-  * This is the layout of the **calculator**
+  * Here's a link to my design in **Miro**: [miro.com](https://miro.com/app/board/uXjVPLluMV4=/) 
+  * This is the layout of the **calculator** in Tkinter.
 
 <a href="task"><image src="https://github.com/Rongotai-College/10DT-Python-Calculator/blob/main/images/calc_ss.jpg?raw=true" title="The Task" width=500>
 
