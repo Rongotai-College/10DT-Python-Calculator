@@ -24,7 +24,7 @@ Author - Edward Martin Petersen: Design and Develop a Digital Outcome
   * This is the layout of the calculator in **Tkinter**.
 
 ---
-A screenshot of my calculator: <a href="task"><image src="https://github.com/Rongotai-College/10DT-Python-Calculator/blob/main/images/calc_ss.jpg?raw=true" title="The Task" width=100>
+A screenshot of my calculator: <a href="task"><image src="https://github.com/Rongotai-College/10DT-Python-Calculator/blob/main/images/calc_ss.jpg?raw=true" title="The Task" width=200>
 ---
 
 
